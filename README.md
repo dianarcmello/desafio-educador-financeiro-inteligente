@@ -1,4 +1,5 @@
 💰 Desafio Criativo: Prototipação do Educador Financeiro Inteligente
+
 🧱 Passo 1 — Definição do papel do Educador Financeiro
 Crie a ideia de um Educador Financeiro Inteligente voltado para pessoas que desejam organizar melhor sua vida financeira, mas possuem dificuldade para controlar seus gastos e planejar o orçamento mensal.
 
